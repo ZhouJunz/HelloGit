@@ -13,5 +13,7 @@ public class HelloGit {
         
         System.out.println("在线更新");
 
+        System.out.println("clone成功");
+
     }
 }
